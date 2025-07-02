@@ -1,0 +1,1 @@
+Node is a powerful platform that allows developers to build scalable applications with ease. Using Node, you can create servers, handle files, and manage databases efficiently. The beauty of Node lies in its non-blocking architecture, making it ideal for real-time applications. Many modern tools are built on Node today.
